@@ -42,6 +42,6 @@ Contributions to improve data cleaning processes or address specific issues in t
 
 ## Data Source
 
-The Nashville housing dataset is sourced from Kaggle. [NashvilleHousing Data Set](link_to_the_dataset).
+The Nashville housing dataset is sourced from Kaggle. [NashvilleHousing Data Set](https://github.com/SiriSrinivas6/NashvilleHousing-SQL-Data-Cleaning/blob/fd52a057199bf41cc54358e6dda409292ef00dea/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx).
 
 
